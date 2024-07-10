@@ -1,1 +1,4 @@
-First git add 
+First git add git add 
+git stat
+
+git
